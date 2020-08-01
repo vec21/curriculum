@@ -95,6 +95,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [Veríssimo Cassange's Solution (Easy)](https://github.com/vec21/google-homepage) - [View in Browser](https://vec21.github.io/google-homepage/)
 * [ThorOnTheRocks' Solution (Hard)](https://github.com/ThorOnTheRocks/google-homepage) - [View in Browser](https://thorontherocks.github.io/google-homepage/)
 * [Nathan Feldman's Solution (Easy)](https://github.com/n8feldman/google-homepage) - [View in Browser](https://n8feldman.github.io/google-homepage/)
 * [Tom's Solution (Easy)](https://github.com/toms-vanders/google-homepage) - [View in Browser](https://toms-vanders.github.io/google-homepage/)
